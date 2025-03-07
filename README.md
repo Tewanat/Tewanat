@@ -1,7 +1,7 @@
 # 👋 Hello there!
 
 ## 🧑‍💻 About Me
-Hi! My name is **Thewanat Priyawattana**  
+Hi! My name is **Tewanat Priyaawattana**  
 👨‍💻 **Full Stack Developer**  
 
 I started my journey in system development by studying **HTML, CSS, JavaScript, Python, Node.js, MySQL**  
