@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-## 🧑‍💻 About Me
+
 Hi! My name is **Tewanat Priyaawattana**  
 👨‍💻 **Full Stack Developer**  
 
@@ -17,7 +17,7 @@ Currently, I am studying to become a **Full Stack Developer & Software Engineer*
 Frontend: HTML, CSS, JavaScript, React, TypeScript
 Backend: Python, Flask, Node.js, Express.js
 Database: MySQL, MongoDB
-Other: Docker, REST API, Git
+Other: Docker, RESTFUL API, Git
 ```
 
 ## 🚀 Currently Learning
