@@ -23,6 +23,7 @@ Other: Docker, RESTFUL API, Git
 ## 🚀 Currently Learning
 ```yaml
 - Express.js
+- React.js
 - React Native
 - TypeScript
 - Docker
